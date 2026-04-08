@@ -5,7 +5,7 @@
 <!-- LEADERBOARD_START -->
 | Rank | Pilot | Highest Level | Timestamp (UTC) |
 |------|-------|---------------|-----------------|
-| 1 | Rohan-droid7341 | 1 | 2026-04-08 10:57:46 |
+| 1 | Rohan-droid7341 | 2 | 2026-04-08 11:10:40 |
 <!-- LEADERBOARD_END -->
 
 ---
