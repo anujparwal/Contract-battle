@@ -6,7 +6,7 @@
 | Rank | Player | Highest Level | Timestamp (UTC) |
 |------|-------|---------------|-----------------|
 | 1 | nilanjanchavan | 4 | 2026-04-08 18:39:24 |
-| 2 | Aadya25416 | 3 | 2026-04-08 19:04:07 |
+| 2 | Aadya25416 | 4 | 2026-04-08 19:09:11 |
 | 3 | ayusharyan4269-bit | 2 | 2026-04-08 18:53:35 |
 | 4 | harshkumar3117-svg | 2 | 2026-04-08 18:56:09 |
 <!-- LEADERBOARD_END -->
